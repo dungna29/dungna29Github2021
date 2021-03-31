@@ -13,8 +13,18 @@ public class ServiceKeToan {
 
     public ServiceKeToan() {
     }
-    
-    public void themKeToan(){
+
+    public void themKeToan() {
+        System.out.println("");
+        System.out.println("");
+    }
+
+    public void suaKeToan() {
+        System.out.println("");
+        System.out.println("");
+    }
+
+    public void xoaKeToan() {
         System.out.println("");
         System.out.println("");
     }
