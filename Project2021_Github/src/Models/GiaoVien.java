@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package project2021_github;
+package Models;
 
 /**
  *
  * @author Dungna29
  */
-public class Project2021_Github {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class GiaoVien {
     
 }
