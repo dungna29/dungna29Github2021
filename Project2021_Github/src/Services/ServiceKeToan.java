@@ -25,8 +25,7 @@ public class ServiceKeToan {
     }
 
     public void xoaKeToan() {
-        System.out.println("");
-        fkandfa
+        System.out.println("");    
     }
     private int a;
 }
