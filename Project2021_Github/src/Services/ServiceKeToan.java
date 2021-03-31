@@ -14,7 +14,8 @@ public class ServiceKeToan {
     public ServiceKeToan() {
     }
     
-    void themKeToan(){
-        
+    public void themKeToan(){
+        System.out.println("");
+        System.out.println("");
     }
 }
