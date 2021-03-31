@@ -28,4 +28,5 @@ public class ServiceKeToan {
         System.out.println("");
         System.out.println("");
     }
+    private int a;
 }
